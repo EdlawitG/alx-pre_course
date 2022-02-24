@@ -1,0 +1,10 @@
+git rm -r
+git commit -m
+git config user.name or user.email
+echo -e
+git branch 
+git checkout
+git pull origin main
+git push
+git add .
+git pull origin main
